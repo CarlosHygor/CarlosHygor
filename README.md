@@ -1,47 +1,70 @@
-# Olá, eu sou o Carlos Hygor Félix 👋
+# Olá, eu sou o Carlos Hygor Félix
 
 **Desenvolvedor Back-End | Acadêmico de Sistemas de Informação (UFAC)**
 
-[cite_start]Sou um desenvolvedor apaixonado por transformar problemas complexos em software eficiente[cite: 4]. Atualmente, foco na construção de APIs robustas, arquiteturas escaláveis e na automação de processos críticos. 
+Sou um desenvolvedor focado em transformar problemas complexos em software eficiente. Atualmente, foco na construção de APIs robustas, arquiteturas escaláveis e na automação de processos críticos. 
 
-[cite_start]Minha base técnica é focada no ecossistema **Java e Spring Boot** [cite: 4][cite_start], mas minha vivência vai além do código: atuo ativamente com metodologias ágeis (SCRUM) [cite: 13][cite_start], liderando o planejamento e a modelagem de sistemas corporativos desde o levantamento de requisitos até o deploy[cite: 28, 29].
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-* [cite_start]**Back-End:** Java 17, Spring Boot, RESTful APIs[cite: 16, 21, 30].
-* [cite_start]**Front-End:** Angular 19, TypeScript[cite: 21, 30].
-* [cite_start]**Banco de Dados & Cache:** MySQL, SQL, Redis (para otimização de performance)[cite: 22, 30, 33].
-* [cite_start]**Arquitetura & Segurança:** JWT, Multi-tenancy (Tokens de Contexto), Microsserviços[cite: 23, 26, 32].
-* [cite_start]**DevOps & Infra:** Git/GitHub, Docker, Dokploy, GitHub Actions (CI/CD)[cite: 22, 29].
-* [cite_start]**Integrações:** Google Drive API, Mapas via GeoJSON (Leaflet/PostGIS)[cite: 5, 27, 33].
-
-*(💡 Dica: Aqui você pode adicionar as badges do Shields.io para deixar visualmente mais bonito)*
+Minha base técnica é voltada para o ecossistema Java e Spring Boot, mas minha vivência vai além do código: atuo ativamente com metodologias ágeis, liderando o planejamento e a modelagem de sistemas corporativos, desde o levantamento de requisitos até o deploy.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Tecnologias e Ferramentas
 
-### 🏢 SCRP - Sistema de Controle de Relatórios e Projetos (Web Academy / Motorola)
-[cite_start]Sistema web desenvolvido para automação de processos fiscais de P&D (SUFRAMA) em parceria com a Motorola[cite: 25]. 
-* [cite_start]**Arquitetura Multi-tenancy:** Criação e implementação da lógica de "Tokens de Contexto" junto com a equipe para garantir o isolamento seguro de dados entre múltiplos projetos de um mesmo usuário[cite: 26].
-* [cite_start]**Integração Assíncrona:** Automação da gestão de pastas e envio de arquivos utilizando a API do Google Drive[cite: 27].
-* [cite_start]**Liderança e DevOps:** Atuei como SCRUM Master validando entregas diretamente com Product Owners e gerência[cite: 28]. [cite_start]Fui responsável por estruturar a esteira de CI/CD utilizando Docker e GitHub Actions[cite: 29].
+### Back-End & Arquitetura
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### 🌍 Projeto GLC - Sistema de Gestão e Mapeamento Demográfico
+**Conceitos aplicados:** API RESTful, SOLID, Multi-tenancy, Microsserviços.
+
+### Front-End
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Banco de Dados 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Conceitos aplicados:** SQL, Geoprocessamento (GeoJSON), Cache, Compressão (GZip).
+
+### DevOps & Qualidade de Software
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Conceitos aplicados:** CI/CD, DevContainers, Dockploy, Testes Automatizados (com suporte de IA), Mockito.
+
+### Game Dev
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+## Projetos em Destaque
+
+### SCRP - Sistema de Controle de Relatórios e Projetos (Web Academy / Motorola)
+Sistema web desenvolvido para automação de processos fiscais de P&D (SUFRAMA).
+* **Arquitetura Multi-tenancy:** Implementação de "Tokens de Contexto" para isolamento seguro de dados entre múltiplos projetos.
+* **Integração Assíncrona:** Automação da gestão de pastas e envio de arquivos utilizando a API do Google Drive.
+* **Liderança e DevOps:** Atuação como SCRUM Master validando entregas diretamente com Product Owners. Estruturação da esteira de CI/CD utilizando Docker e GitHub Actions.
+
+### Projeto GLC - Sistema de Gestão e Mapeamento Demográfico
 Plataforma focada em geoprocessamento e gestão populacional.
-* [cite_start]**Geoprocessamento em Larga Escala:** Processamento de dados populacionais via GeoJSON para renderização em mapas[cite: 33].
-* [cite_start]**Alta Performance:** Implementação de cache em Redis para otimizar o tempo de resposta das consultas demográficas[cite: 33].
-* [cite_start]**Segurança:** Liderança na modelagem de dados e autenticação robusta garantindo a integridade das requisições[cite: 32].
+* **Geoprocessamento em Larga Escala:** Processamento de dados populacionais via GeoJSON para renderização em mapas.
+* **Alta Performance:** Implementação de cache em Redis para otimizar o tempo de resposta das consultas demográficas.
+* **Segurança:** Autenticação robusta para integridade das requisições.
 
 ---
 
-## 🎮 O "Plus": Game Dev & Maratonas
+## Game Dev & Maratonas
 
-Acredito que a criatividade sob pressão e o trabalho em equipe são forjados em grandes desafios. 
-* **Moonlight Games (Estúdio Indie):** Sou co-fundador e desenvolvedor. [cite_start]Escalamos a equipe de 5 para 11 membros, desenvolvemos 4 protótipos e fomos eleitos em **1º Lugar (Voto Popular)** na Headscom[cite: 35, 40, 41]. [cite_start]O reconhecimento nos levou a eventos gigantes como a **Gamescom Latam (SP) e Gamescom (Alemanha)**[cite: 42]. 
-* [cite_start]**Maratonas de Programação:** Conquistei o **2º Lugar no estado do Acre** na Maratona de Programação da SBC (Fase Zero), resolvendo problemas lógicos complexos sob pressão[cite: 43, 44].
+* **Moonlight Games (Estúdio Indie):** Co-fundador e desenvolvedor. Escalamos a equipe para 11 membros, desenvolvemos 4 protótipos e fomos eleitos em 1º Lugar (Voto Popular) na Headscom. O reconhecimento nos levou a eventos como a Gamescom Latam (SP) e Gamescom (Alemanha). 
+* **Maratonas de Programação:** 2º Lugar no estado do Acre na Maratona de Programação da SBC (Fase Zero), com foco em lógica avançada e resolução de problemas sob pressão.
 
 ---
 
