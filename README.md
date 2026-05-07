@@ -17,7 +17,7 @@ Minha base técnica é voltada para o ecossistema Java e Spring Boot, mas minha 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-**Conceitos aplicados:** API RESTful, SOLID, Multi-tenancy, Microsserviços.
+**Conceitos aplicados:** API RESTful, SOLID, Multi-tenancy.
 
 ### Front-End
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -71,7 +71,7 @@ Plataforma focada em geoprocessamento e gestão populacional.
 ## 📬 Como me encontrar
 
 * 💼 **LinkedIn:** [Carlos Hygor Félix de Aquino](https://www.linkedin.com/in/carloshygor)
-* [cite_start]📧 **E-mail:** [carlos.feliix@hotmail.com](mailto:carlos.feliix@hotmail.com) [cite: 2]
+* 📧 **E-mail:** [carlos.feliix@hotmail.com](mailto:carlos.feliix@hotmail.com) 
 
 ---
 ⭐️ *Construindo código limpo, uma sprint de cada vez.*
